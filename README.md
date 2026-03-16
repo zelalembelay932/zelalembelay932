@@ -227,3 +227,6 @@ Replace placeholders:
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/zelalembelay932/zelalembelay932/output/snake.svg" alt="Snake animation" />
+
+###
