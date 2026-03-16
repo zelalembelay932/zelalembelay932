@@ -58,7 +58,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zelalembelay932&show_icons=true&theme=radical" height="170">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelalembelay932&layout=compact&theme=radical" height="170">
-<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
 </p>
 
 # 🏆 GitHub Trophies
