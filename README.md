@@ -39,8 +39,6 @@
 ---
 
 
----
-
 # 📈 Activity Graph
 
 <p align="center">
@@ -50,9 +48,6 @@
 ---
 
 ---
-
-<sub>Built with precision, caffeine, and curiosity.</sub>
-
 
 ###
 
