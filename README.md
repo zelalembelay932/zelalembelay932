@@ -1,3 +1,11 @@
+
+
+
+
+
+⭐ From **Zelalem Belay**
+
+
 <!-- Animated Header -->
 
 <h1 align="center">Hi 👋, I'm Zelalem Belay</h1>
@@ -55,11 +63,20 @@
   
  # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zelalembelay932&show_icons=true&theme=radical" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelalembelay932&layout=compact&theme=radical" height="170">
 
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zelalembelay932&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zelalembelay932&layout=compact&theme=dracula" height="150"/>
+
+</div>
+
+---
+
+
+
 
 # 🏆 GitHub Trophies
 
