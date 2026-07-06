@@ -61,35 +61,7 @@
 
 <div align="center">
   
- # 📊 GitHub Stats
-
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zelalembelay932&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zelalembelay932&layout=compact&theme=dracula" height="150"/>
-
-</div>
-
----
-
-
-
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zelalembelay932&theme=darkhub&row=1&column=6">
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-
+ 
 
 
 # 🌐 Connect With Me
